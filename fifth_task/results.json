@@ -1,0 +1,56 @@
+{
+    "numerical_analysis": {
+        "Quantity": {
+            "max": 74215.0,
+            "min": -9600.0,
+            "mean": 10.252571428571429,
+            "sum": 3588400.0,
+            "std": 136.79229939498885
+        },
+        "Price": {
+            "max": 13541.33,
+            "min": -11062.06,
+            "mean": 3.894432982857142,
+            "sum": 1363051.5439999998,
+            "std": 46.74707573309818
+        },
+        "CustomerID": {
+            "max": 18287.0,
+            "min": 12346.0,
+            "mean": 15305.720667621461,
+            "sum": 3890040742.0,
+            "std": 1726.939183203688
+        }
+    },
+    "text_frequency": {
+        "United Kingdom": 326344,
+        "Germany": 6263,
+        "France": 5487,
+        "Spain": 1810,
+        "Netherlands": 1774,
+        "Belgium": 1390,
+        "Switzerland": 1250,
+        "Australia": 999,
+        "Portugal": 814,
+        "Norway": 682,
+        "Italy": 415,
+        "Unspecified": 393,
+        "Sweden": 320,
+        "Japan": 273,
+        "Austria": 267,
+        "Israel": 261,
+        "Poland": 259,
+        "Hong Kong": 249,
+        "Singapore": 188,
+        "Iceland": 124,
+        "Greece": 109,
+        "Malta": 100,
+        "United Arab Emirates": 68,
+        "Lebanon": 45,
+        "Lithuania": 35,
+        "Brazil": 32,
+        "USA": 22,
+        "Bahrain": 18,
+        "Saudi Arabia": 9
+    }
+}
